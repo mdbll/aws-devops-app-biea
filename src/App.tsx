@@ -1,6 +1,4 @@
-// import { Button } from "@/components/ui/button"
-// import { Navigation } from "./components/layouts/navigation"
-import { Homepage } from "./pages/homepage"
+import { Homepage } from "./pages/home/homepage"
 
 function App() {
   return (
