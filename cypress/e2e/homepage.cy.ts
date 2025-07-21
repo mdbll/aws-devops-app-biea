@@ -17,7 +17,7 @@ describe("Page d'accueil", () => {
 
     // Intercepte l'alerte
     cy.on("window:alert", (txt) => {
-      expect(txt).to.equal("Bienvenue")
+      expect(txt).to.equal("Bienvenue !")
     })
 
     // Clique sur le bouton
