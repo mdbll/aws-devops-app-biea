@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:eu-west-1:079217890522:stack/amplify-awsdevopsappbiea-dev-9c438/8b382650-6613-11f0-a98b-02099ebd8863",
       "AmplifyAppId": "d3l3h6g7tbzfhi"
     }
+  },
+  "biea": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsdevopsappbiea-biea-1f58d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::079217890522:role/amplify-awsdevopsappbiea-biea-1f58d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::079217890522:role/amplify-awsdevopsappbiea-biea-1f58d-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsdevopsappbiea-biea-1f58d-deployment",
+      "UnauthRoleName": "amplify-awsdevopsappbiea-biea-1f58d-unauthRole",
+      "StackName": "amplify-awsdevopsappbiea-biea-1f58d",
+      "StackId": "arn:aws:cloudformation:eu-west-1:079217890522:stack/amplify-awsdevopsappbiea-biea-1f58d/9ec45820-662b-11f0-a0b8-0671fe1e0f4f",
+      "AmplifyAppId": "d3l3h6g7tbzfhi"
+    },
+    "categories": {
+      "function": {
+        "testbiea": {}
+      }
+    }
   }
 }
